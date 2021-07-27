@@ -1,0 +1,43 @@
+{
+    "data": {
+        "id": 1,
+        "fullName": "Mickey Mouse",
+        "pictureUrl": "mickey",
+        "email": "mickeymouse@disney.com",
+        "about": "The first words I ever spoke were “Hot Dogs”!",
+        "friends": [
+                    {
+                    "name": "Minnie",
+                    "pictureUrl": "minnie"
+                    },
+                    {
+                    "name": "Donald",
+                    "pictureUrl": "donald"
+                    },
+                    {
+                    "name": "Goofy",
+                    "pictureUrl": "goofy"
+                    },
+                    {
+                    "name": "Pluto",
+                    "pictureUrl": "pluto"
+                    }
+                    ],
+        "profileAttributes": [
+                              {
+                              "key": "Date of birth",
+                              "value": "November 18, 1928"
+                              },
+                              {
+                              "key": "Gender",
+                              "value": "male"
+                              },
+                              {
+                              "key": "Height",
+                              "value": "180"
+                              }
+                              ]
+    },
+    "error": 0,
+    "message": "Success"
+}
